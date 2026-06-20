@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Staging area for original, un-generalized skill copies (never commit)
+_source/
